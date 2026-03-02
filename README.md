@@ -1,2 +1,2 @@
 # SistemasDEquipo-
-Repositorio para la clase de Sistremas Digitales
+Repositorio para la clase de Sistemas Digitales -   Equipo 1
