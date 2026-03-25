@@ -6,10 +6,9 @@
 #include<stdio.h>
 
 int main(){
-    float suma;
     float N1, N2;
-    
-    try{
+
+    try {
     	printf("Ingresa el dato 1: ");
     	if (scanf("%f", &N1) != 1){
     		throw 1;
