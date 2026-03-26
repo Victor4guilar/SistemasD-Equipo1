@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Lenguaje C
+## Código C
 
 ### 1.0.0 – 2026-03-02 – Axel
 
@@ -29,7 +29,7 @@ Se añade menú interactivo y validación de entradas, incluyendo control de div
 
 ---
 
-## Lenguaje Python
+## Código Python
 
 ### 1.0.0 – 2026-03-02 – Víctor
 
